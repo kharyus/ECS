@@ -1,0 +1,355 @@
+# depslib dependency file v1.0
+1479083540 source:c:\programming\projects\learning projects\c++\ecs\src\component.cpp
+	"Component.h"
+
+1479083841 c:\programming\projects\learning projects\c++\ecs\include\component.h
+
+1479080630 source:c:\programming\projects\learning projects\c++\ecs\src\entity.cpp
+	"Entity.h"
+
+1479083854 c:\programming\projects\learning projects\c++\ecs\include\entity.h
+	"Component.h"
+	<unordered_map>
+	<typeindex>
+
+1479082797 source:c:\programming\projects\learning projects\c++\ecs\src\system.cpp
+	"System.h"
+
+1479084310 c:\programming\projects\learning projects\c++\ecs\include\system.h
+	"Entity.h"
+	<vector>
+
+1479064065 source:c:\programming\projects\learning projects\c++\ecs\src\testcomponent.cpp
+	"TestComponent.h"
+
+1479069246 c:\programming\projects\learning projects\c++\ecs\include\testcomponent.h
+	"Component.h"
+
+1479083990 source:c:\programming\projects\learning projects\c++\ecs\main.cpp
+	<iostream>
+	"ECSManager.h"
+	"CollisionSystem.h"
+	"GraphicSystem.h"
+	"Player.h"
+	<iostream>
+
+1479067255 c:\programming\projects\learning projects\c++\ecs\include\testsystem.h
+	"System.h"
+	"TestComponent.h"
+	"CollisionComponent.h"
+
+1479068471 source:c:\programming\projects\learning projects\c++\ecs\src\testentity.cpp
+	"TestEntity.h"
+	"TestComponent.h"
+
+1479005881 c:\programming\projects\learning projects\c++\ecs\include\testentity.h
+	"Entity.h"
+
+1479068476 source:c:\programming\projects\learning projects\c++\ecs\src\testsystem.cpp
+	"TestSystem.h"
+
+1479083522 c:\programming\projects\learning projects\c++\ecs\include\collisioncomponent.h
+	"Component.h"
+
+1479083529 source:c:\programming\projects\learning projects\c++\ecs\src\collisioncomponent.cpp
+	"CollisionComponent.h"
+
+1479084074 source:c:\programming\projects\learning projects\c++\ecs\src\collisionsystem.cpp
+	"CollisionSystem.h"
+	<iostream>
+
+1479082613 c:\programming\projects\learning projects\c++\ecs\include\collisionsystem.h
+	"System.h"
+	"HealthComponent.h"
+	"CollisionComponent.h"
+
+1479083819 c:\programming\projects\learning projects\c++\ecs\include\healthcomponent.h
+	"Component.h"
+
+1479083812 source:c:\programming\projects\learning projects\c++\ecs\src\healthcomponent.cpp
+	"HealthComponent.h"
+
+1479081417 source:c:\programming\projects\learning projects\c++\ecs\src\player.cpp
+	"Player.h"
+	"HealthComponent.h"
+	"CollisionComponent.h"
+
+1479069697 c:\programming\projects\learning projects\c++\ecs\include\player.h
+	"Entity.h"
+
+1479081495 source:c:\programming\projects\learning projects\c++\ecs\src\ecsmanager.cpp
+	"ECSManager.h"
+
+1479082543 c:\programming\projects\learning projects\c++\ecs\include\ecsmanager.h
+	"Entity.h"
+	"Component.h"
+	"System.h"
+	<vector>
+
+1479082651 source:c:\programming\projects\learning projects\c++\ecs\src\graphicsystem.cpp
+	"GraphicSystem.h"
+	<iostream>
+
+1479082637 c:\programming\projects\learning projects\c++\ecs\include\graphicsystem.h
+	"System.h"
+
+1479083529 source:c:\programming\projects\c++\ecs\src\collisioncomponent.cpp
+	"CollisionComponent.h"
+
+1479083522 c:\programming\projects\c++\ecs\include\collisioncomponent.h
+	"Component.h"
+
+1479083841 c:\programming\projects\c++\ecs\include\component.h
+
+1479084074 source:c:\programming\projects\c++\ecs\src\collisionsystem.cpp
+	"CollisionSystem.h"
+	<iostream>
+
+1479082613 c:\programming\projects\c++\ecs\include\collisionsystem.h
+	"System.h"
+	"HealthComponent.h"
+	"CollisionComponent.h"
+
+1479084744 c:\programming\projects\c++\ecs\include\system.h
+	"Entity.h"
+	<vector>
+
+1479083854 c:\programming\projects\c++\ecs\include\entity.h
+	"Component.h"
+	<unordered_map>
+	<typeindex>
+
+1479083819 c:\programming\projects\c++\ecs\include\healthcomponent.h
+	"Component.h"
+
+1479083540 source:c:\programming\projects\c++\ecs\src\component.cpp
+	"Component.h"
+
+1479081495 source:c:\programming\projects\c++\ecs\src\ecsmanager.cpp
+	"ECSManager.h"
+
+1479084720 c:\programming\projects\c++\ecs\include\ecsmanager.h
+	"Entity.h"
+	"Component.h"
+	"System.h"
+	<vector>
+
+1479080630 source:c:\programming\projects\c++\ecs\src\entity.cpp
+	"Entity.h"
+
+1479082651 source:c:\programming\projects\c++\ecs\src\graphicsystem.cpp
+	"GraphicSystem.h"
+	<iostream>
+
+1479082637 c:\programming\projects\c++\ecs\include\graphicsystem.h
+	"System.h"
+
+1479083812 source:c:\programming\projects\c++\ecs\src\healthcomponent.cpp
+	"HealthComponent.h"
+
+1479081417 source:c:\programming\projects\c++\ecs\src\player.cpp
+	"Player.h"
+	"HealthComponent.h"
+	"CollisionComponent.h"
+
+1479069697 c:\programming\projects\c++\ecs\include\player.h
+	"Entity.h"
+
+1479082797 source:c:\programming\projects\c++\ecs\src\system.cpp
+	"System.h"
+
+1479084548 source:c:\programming\projects\c++\ecs\src\main.cpp
+	<iostream>
+	"ECSManager.h"
+	"CollisionSystem.h"
+	"GraphicSystem.h"
+	"Player.h"
+	<iostream>
+
+1479083540 source:c:\programming\projects\c++\libraries\ecs\src\component.cpp
+	"Component.h"
+
+1479278621 c:\programming\projects\c++\libraries\ecs\include\component.h
+
+1479081495 source:c:\programming\projects\c++\libraries\ecs\src\ecsmanager.cpp
+	"ECSManager.h"
+
+1479290936 c:\programming\projects\c++\libraries\ecs\include\ecsmanager.h
+	"Entity.h"
+	"Component.h"
+	"System.h"
+	<vector>
+	<iostream>
+
+1479301112 c:\programming\projects\c++\libraries\ecs\include\entity.h
+	"Component.h"
+	<unordered_map>
+	<typeindex>
+	<iostream>
+
+1479289653 c:\programming\projects\c++\libraries\ecs\include\system.h
+	"Entity.h"
+	<vector>
+	<iostream>
+
+1479301922 source:c:\programming\projects\c++\libraries\ecs\src\entity.cpp
+	"Entity.h"
+	"ECSManager.h"
+	"LuaManager.h"
+
+1479155773 source:c:\programming\projects\c++\libraries\ecs\src\system.cpp
+	"System.h"
+
+1479297356 source:c:\programming\projects\c++\libraries\ecs\src\luamanager.cpp
+	"LuaManager.h"
+	<iostream>
+
+1479298703 c:\programming\projects\c++\libraries\ecs\include\luamanager.h
+	<iostream>
+	"Lua.hpp"
+	"LuaBridge.h"
+
+1103763184 c:\libraries\lua\lua-5.3.3\include\lua.hpp
+	"lua.h"
+	"lualib.h"
+	"lauxlib.h"
+
+1464623608 c:\libraries\lua\lua-5.3.3\include\lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1462133169 c:\libraries\lua\lua-5.3.3\include\luaconf.h
+	<limits.h>
+	<stddef.h>
+	<stdint.h>
+	<assert.h>
+
+1391707953 c:\libraries\lua\lua-5.3.3\include\lualib.h
+	"lua.h"
+
+1448278183 c:\libraries\lua\lua-5.3.3\include\lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
+1382191058 c:\libraries\lua\luabridge\source\luabridge\luabridge.h
+	<cassert>
+	<sstream>
+	<stdexcept>
+	<string>
+	<typeinfo>
+	"detail/LuaHelpers.h"
+	"detail/TypeTraits.h"
+	"detail/TypeList.h"
+	"detail/FuncTraits.h"
+	"detail/Constructor.h"
+	"detail/Stack.h"
+	"detail/ClassInfo.h"
+	"detail/LuaException.h"
+	"detail/LuaRef.h"
+	"detail/Iterator.h"
+	"detail/Userdata.h"
+	"detail/CFunctions.h"
+	"detail/Namespace.h"
+
+1478983561 c:\libraries\lua\luabridge\source\luabridge\detail\luahelpers.h
+
+1382191058 c:\libraries\lua\luabridge\source\luabridge\detail\typetraits.h
+
+1382191058 c:\libraries\lua\luabridge\source\luabridge\detail\typelist.h
+
+1382191058 c:\libraries\lua\luabridge\source\luabridge\detail\functraits.h
+
+1382191058 c:\libraries\lua\luabridge\source\luabridge\detail\constructor.h
+
+1478983728 c:\libraries\lua\luabridge\source\luabridge\detail\stack.h
+
+1382191058 c:\libraries\lua\luabridge\source\luabridge\detail\classinfo.h
+
+1382191058 c:\libraries\lua\luabridge\source\luabridge\detail\luaexception.h
+
+1382191058 c:\libraries\lua\luabridge\source\luabridge\detail\luaref.h
+
+1382191058 c:\libraries\lua\luabridge\source\luabridge\detail\iterator.h
+
+1382191058 c:\libraries\lua\luabridge\source\luabridge\detail\userdata.h
+
+1382191058 c:\libraries\lua\luabridge\source\luabridge\detail\cfunctions.h
+
+1382191058 c:\libraries\lua\luabridge\source\luabridge\detail\namespace.h
+
+1485816846 source:c:\users\cristian\desktop\backup\programming\projects\c++\libraries\ecs\src\component.cpp
+	"Component.h"
+
+1487620316 source:c:\users\cristian\desktop\backup\programming\projects\c++\libraries\ecs\src\ecsmanager.cpp
+	"ECSManager.h"
+
+1487621134 source:c:\users\cristian\desktop\backup\programming\projects\c++\libraries\ecs\src\system.cpp
+	"System.h"
+	<algorithm>
+
+1485925155 c:\users\cristian\desktop\backup\programming\projects\c++\libraries\ecs\include\component.h
+
+1487620966 c:\users\cristian\desktop\backup\programming\projects\c++\libraries\ecs\include\ecsmanager.h
+	"Entity.h"
+	"System.h"
+	"Component.h"
+	"Optional.h"
+	<vector>
+
+1487621920 c:\users\cristian\desktop\backup\programming\projects\c++\libraries\ecs\include\entity.h
+	"Component.h"
+	<unordered_map>
+	<typeindex>
+	<iostream>
+	"Optional.h"
+
+1487620392 c:\users\cristian\desktop\backup\programming\projects\c++\libraries\ecs\include\system.h
+	<iostream>
+	"Entity.h"
+	<vector>
+	<set>
+	<typeindex>
+
+1479297356 source:c:\users\cristian\desktop\backup\programming\projects\c++\libraries\ecs\src\luamanager.cpp
+	"LuaManager.h"
+	<iostream>
+
+1485644951 c:\users\cristian\desktop\backup\programming\projects\c++\libraries\ecs\include\luamanager.h
+	<iostream>
+	"Lua.hpp"
+	"LuaBridge.h"
+
+1487621908 source:c:\users\cristian\desktop\backup\programming\projects\c++\libraries\ecs\src\entity.cpp
+	"Entity.h"
+	"ECSManager.h"
+
+1485820718 c:\users\cristian\desktop\backup\programming\projects\c++\libraries\ecs\include\optional.h
+	<memory>
+
+1485901924 source:c:\users\cristian\desktop\backup\programming\projects\c++\libraries\ecs\src\basesystem.cpp
+	"BaseSystem.h"
+	<algorithm>
+
+1485851258 c:\users\cristian\desktop\backup\programming\projects\c++\libraries\ecs\include\basesystem.h
+	<iostream>
+	"Entity.h"
+	<vector>
+	<set>
+	<typeindex>
+
+1485847012 c:\users\cristian\desktop\backup\programming\projects\c++\libraries\ecs\include\baseentity.h
+	"Component.h"
+	<unordered_map>
+	<typeindex>
+	<iostream>
+	"Optional.h"
+
+1485846497 source:c:\users\cristian\desktop\backup\programming\projects\c++\libraries\ecs\src\baseentity.cpp
+	"BaseEntity.h"
+	"ECSManager.h"
+	"LuaManager.h"
+
+1485903092 c:\users\cristian\desktop\backup\programming\projects\c++\libraries\ecs\include\polymorphiccast.h
+

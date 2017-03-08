@@ -1,0 +1,5 @@
+Date: Tue Jan 31 19:01:19 2017
+Path: logs/Tue_Jan_31_19-01-19_2017.log
+
+Time Taken to create 32000 entities: 0.046895
+Time Taken on an update with 32000 entities: 4.015621

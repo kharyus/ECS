@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1487618864 source:c:\users\cristian\desktop\backup\programming\projects\c++\libraries\ecs\ecs testenv\main.cpp
+	<iostream>
+	"ECSManager.h"
+	<chrono>
+	"Logger.h"
+
+1487618556 c:\users\cristian\desktop\backup\programming\projects\c++\libraries\ecs\include\ecsmanager.h
+	"Entity.h"
+	"System.h"
+	"Component.h"
+	"Optional.h"
+	<vector>
+
+1487171950 c:\users\cristian\desktop\backup\programming\projects\c++\libraries\ecs\include\entity.h
+	"Component.h"
+	<unordered_map>
+	<typeindex>
+	<iostream>
+	"Optional.h"
+
+1485925155 c:\users\cristian\desktop\backup\programming\projects\c++\libraries\ecs\include\component.h
+
+1485925306 c:\users\cristian\desktop\backup\programming\projects\c++\libraries\ecs\include\system.h
+	<iostream>
+	"Entity.h"
+	<vector>
+	<set>
+	<typeindex>
+
+1485820718 c:\users\cristian\desktop\backup\programming\projects\c++\libraries\ecs\include\optional.h
+	<memory>
+
+1485851258 c:\users\cristian\desktop\backup\programming\projects\c++\libraries\ecs\include\basesystem.h
+	<iostream>
+	"Entity.h"
+	<vector>
+	<set>
+	<typeindex>
+
+1485925097 c:\users\cristian\desktop\backup\programming\projects\c++\libraries\ecs\ecs testenv\include\logger.h
+	<iostream>
+
+1485924301 source:c:\users\cristian\desktop\backup\programming\projects\c++\libraries\ecs\ecs testenv\src\logger.cpp
+	"Logger.h"
+	<ctime>
+	<cstdio>
+	<iostream>
+	<algorithm>
+
